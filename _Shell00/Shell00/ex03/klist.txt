@@ -1,0 +1,5 @@
+Credentials cache: API:B48C33B4-C981-4992-A602-8F4604B5BE93
+        Principal: jmonteir@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jun 28 16:05:43 2021  Jun 29 02:05:43 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
